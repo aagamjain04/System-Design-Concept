@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5a0a0fffae5c4ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "451af2ba6a4826ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8160426478b93ac1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01950790a785c676",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb7b2740ae31e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc734c5bd0bea1b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02ed912f128f2edc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a23d2f974edec114",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebf46447683de90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88247c2fdc73948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28f5860c57de01a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5522b20dc4c70790",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "13. Data Serialization Frameworks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13. Data Serialization Frameworks"
+            }
+          },
+          {
+            "id": "c049f80290fb43d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78d3e39ca11be6e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dbfb8395938cdc44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8160426478b93ac1",
+  "lastOpenFiles": [
+    "16. Single Leader Replication.md",
+    "README.md",
+    "15. Eventual Consistency & Stale Reads.md",
+    "14. Database Replication.md",
+    "13. Data Serialization Frameworks.md",
+    "06. Read Committed Isolation.md",
+    "03. LSM Trees & SSTables.md",
+    "02.  B-Tree Indexes.md",
+    "12. Column-Oriented Storage.md",
+    "11. Serializable Snapshot Isolation (SSI).md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "10. Two-Phase Locking (2PL).md",
+    "09.  Actual Serial Execution.md",
+    "08. Write Skew & Phantom Writes.md",
+    "07. Snapshot Isolation & Read Skew.md",
+    "05. ACID Transactions.md",
+    "04. Database Indexes.md",
+    "01.  Hash Indexes.md",
+    "Welcome.md"
+  ]
+}
