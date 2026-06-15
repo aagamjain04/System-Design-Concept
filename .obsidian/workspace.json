@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Multi-Leader Replication.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Multi-Leader Replication"
+              "title": "README"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "009f388a1dc280b4",
   "lastOpenFiles": [
-    "README.md",
     "17. Multi-Leader Replication.md",
     "16. Single Leader Replication.md",
+    "README.md",
     "15. Eventual Consistency & Stale Reads.md",
     "14. Database Replication.md",
     "13. Data Serialization Frameworks.md",
